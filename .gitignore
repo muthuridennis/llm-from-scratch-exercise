@@ -24,6 +24,7 @@ env/
 *.hdf5
 *.h5
 *.parquet
+*.bin.gz
 
 # Logs and temporary files
 *.log

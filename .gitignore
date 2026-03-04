@@ -39,3 +39,6 @@ env/
 *.pth
 *.zip
 /sms_spam_collection
+*.docx
+OW1*
+markitdown-test.ipynb
